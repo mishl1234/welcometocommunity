@@ -1,0 +1,237 @@
+.openart-image-1boinv2c-1721757-icon {
+  position: absolute;
+  top: 0;
+  left: 5px;
+  width: 1873px;
+  height: 688px;
+  object-fit: cover;
+}
+.r-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1878px;
+  height: 688px;
+}
+.frame-child1,
+.frame-child2 {
+  position: absolute;
+  top: 0;
+  left: 5px;
+  width: 1873px;
+  height: 128px;
+}
+.frame-child2 {
+  top: 686px;
+  left: 6px;
+  height: 604px;
+}
+.services,
+.we-provide-personalized {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.we-provide-personalized {
+  top: 767px;
+  left: 844px;
+  line-height: 35px;
+  width: 835px;
+  height: 422px;
+}
+.services {
+  top: 873px;
+  right: 433px;
+  font-size: var(--font-size-53xl);
+  line-height: 20.8px;
+  font-weight: 800;
+  font-family: var(--font-jost);
+  color: var(--color-black);
+  width: 990px;
+  height: 135px;
+}
+.frame-icon2,
+.frame14 {
+  position: absolute;
+  top: 0;
+  overflow: hidden;
+}
+.frame14 {
+  left: -5px;
+  width: 1879px;
+  height: 1290px;
+  font-family: var(--font-open-sans);
+}
+.frame-icon2 {
+  left: 0;
+  width: 1895px;
+  height: 1510px;
+}
+.frame-icon3,
+.frame-icon4,
+.frame-icon5,
+.frame17 {
+  position: absolute;
+  top: 39px;
+  left: 0;
+  width: 1918px;
+  height: 1479px;
+  overflow: hidden;
+}
+.frame-icon4,
+.frame-icon5,
+.frame17 {
+  top: 70px;
+  width: 1895px;
+  height: 1469px;
+}
+.frame-icon5,
+.frame17 {
+  top: 105px;
+  width: 1880px;
+  height: 1434px;
+}
+.frame17 {
+  top: 1422px;
+  background-color: var(--color-white);
+  width: 1895px;
+  height: 117px;
+}
+.welcome-to-our {
+  width: 900px;
+  position: relative;
+  line-height: 35px;
+  display: flex;
+  align-items: center;
+  height: 544px;
+  flex-shrink: 0;
+}
+.frame18 {
+  position: absolute;
+  top: 474px;
+  left: 0;
+  width: 1766px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  font-family: var(--font-open-sans);
+}
+.books {
+  width: 990px;
+  position: relative;
+  line-height: 20.8px;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  height: 135px;
+  flex-shrink: 0;
+}
+.frame19 {
+  position: absolute;
+  top: 299px;
+  left: 0;
+  width: 1856px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  font-size: var(--font-size-53xl);
+}
+.blank-line2 {
+  margin: 0;
+}
+.contact-us-email1 {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.contact-us-email-container1 {
+  align-self: stretch;
+  position: relative;
+  line-height: 25px;
+  font-weight: 500;
+}
+.frame20 {
+  position: absolute;
+  top: 1441px;
+  left: calc(50% - 958.5px);
+  width: 1881px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 15px;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-base-8);
+}
+.frame16 {
+  align-self: stretch;
+  position: relative;
+  height: 1539px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame15 {
+  position: absolute;
+  top: 1449px;
+  left: -5px;
+  width: 1919px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  color: var(--color-black);
+}
+.home3,
+.join-us11 {
+  position: relative;
+  line-height: 13px;
+  font-weight: 500;
+}
+.home3 {
+  flex: 1;
+  cursor: pointer;
+}
+.join-us11 {
+  -webkit-text-stroke: 1px rgba(255, 255, 255, 0.7);
+}
+.frame-div,
+.join-us-frame {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.join-us-frame {
+  flex: 1;
+  border: 1px solid var(--color-gray-300);
+  box-sizing: border-box;
+  height: 32px;
+  flex-direction: column;
+  cursor: pointer;
+}
+.frame-div {
+  position: absolute;
+  top: 79px;
+  left: calc(50% - 738.5px);
+  width: 1478px;
+  flex-direction: row;
+  gap: var(--gap-136xl);
+  text-align: center;
+  font-size: var(--font-size-smi-8);
+}
+.div3 {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(#fff, #fff), #fff;
+  height: 2988px;
+  overflow-y: auto;
+  text-align: left;
+  font-size: var(--font-size-7xl);
+  color: var(--color-white);
+  font-family: var(--font-jost);
+}

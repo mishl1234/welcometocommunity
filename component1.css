@@ -1,0 +1,511 @@
+@keyframes scale-down-center {
+  0% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+  to {
+    -webkit-transform: scale(0.5);
+    transform: scale(0.5);
+  }
+}
+.frame24,
+.frame26,
+.r-1-icon {
+  align-self: stretch;
+  position: relative;
+  height: 1290px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame26,
+.r-1-icon {
+  height: 1298px;
+}
+.r-1-icon {
+  max-width: 100%;
+  height: 688px;
+  object-fit: cover;
+}
+.frame-icon6,
+.frame28 {
+  position: absolute;
+  top: 0;
+  overflow: hidden;
+}
+.frame28 {
+  left: 0;
+  width: 1878px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-icon6 {
+  left: -5px;
+  width: 1873px;
+  height: 1290px;
+}
+.frame23,
+.frame25,
+.frame27 {
+  align-self: stretch;
+  overflow: hidden;
+}
+.frame27 {
+  position: relative;
+  height: 1290px;
+  flex-shrink: 0;
+  margin-top: -1298px;
+}
+.frame23,
+.frame25 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 0 var(--padding-5xs);
+}
+.frame25 {
+  height: 1290px;
+  flex-shrink: 0;
+  justify-content: flex-end;
+  box-sizing: border-box;
+  margin-top: -1290px;
+}
+.frame23 {
+  justify-content: flex-start;
+}
+.frame-child3 {
+  position: absolute;
+  top: 0;
+  left: -4px;
+  width: 1882px;
+  height: 128px;
+}
+.global-social-betterment1 {
+  margin: 0;
+}
+.global-social-betterment-container2 {
+  align-self: stretch;
+  position: relative;
+  line-height: 48px;
+}
+.frame30 {
+  position: absolute;
+  top: 913px;
+  left: 1003px;
+  width: 674px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+}
+.frame31,
+.how-we-help5 {
+  width: 990px;
+  display: flex;
+  align-items: center;
+}
+.how-we-help5 {
+  position: relative;
+  line-height: 20.8px;
+  font-weight: 800;
+  height: 135px;
+  flex-shrink: 0;
+}
+.frame31 {
+  position: absolute;
+  top: 0;
+  left: 366px;
+  height: 1048px;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-end;
+  text-align: left;
+  font-size: var(--font-size-53xl);
+  color: var(--color-black);
+  font-family: var(--font-jost);
+}
+.frame29 {
+  align-self: stretch;
+  height: 1298px;
+  margin-top: -1298px;
+}
+.frame29,
+.frame33,
+.frame34 {
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame33 {
+  align-self: stretch;
+  height: 1377px;
+}
+.frame34 {
+  width: 1878px;
+  height: 1158px;
+  margin-top: -1290px;
+}
+.frame22,
+.frame32 {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frame32 {
+  align-items: flex-end;
+  padding: 0 0 var(--padding-5xs);
+  margin-top: -1298px;
+}
+.frame22 {
+  align-items: center;
+}
+.the-way-to-container3 {
+  width: 100%;
+}
+.the-way-to-container2 {
+  position: absolute;
+  top: 74px;
+  left: calc(50% - 186.5px);
+  line-height: 50px;
+  font-weight: 900;
+  display: flex;
+  align-items: center;
+  width: 374px;
+  height: 85px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.frame-child4,
+.the-way-to-happiness-wrapper {
+  position: absolute;
+  border-radius: var(--br-34xl);
+  width: 405px;
+  height: 234px;
+}
+.the-way-to-happiness-wrapper {
+  top: 60px;
+  left: 310px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  background-color: var(--color-royalblue);
+}
+.drug-free-world-wrapper:hover,
+.frame-child6:hover,
+.frame38:hover,
+.frame40:hover,
+.rectangle-group:hover,
+.rectangle-parent:hover,
+.the-way-to-happiness-wrapper:hover,
+.vector-container:hover,
+.vector-group:hover {
+  animation: 1s ease 0s infinite normal none scale-down-center;
+  opacity: 1;
+}
+.frame-child4 {
+  top: 0;
+  left: 113px;
+}
+.mental-health-reform-container2 {
+  position: absolute;
+  top: 27px;
+  left: calc(50% - 315.5px);
+  line-height: 50px;
+  font-weight: 900;
+  display: flex;
+  align-items: center;
+  width: 631px;
+  height: 195px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.rectangle-div,
+.vector-group {
+  position: absolute;
+  height: 234px;
+}
+.vector-group {
+  top: 215px;
+  left: 743px;
+  width: 631px;
+  font-size: var(--font-size-31xl);
+}
+.rectangle-div {
+  top: 7px;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  border-radius: var(--br-34xl);
+  background-color: var(--color-royalblue);
+  width: 405px;
+}
+.human-rights1 {
+  position: absolute;
+  top: 6px;
+  left: calc(50% - 109.5px);
+  line-height: 50px;
+  font-weight: 900;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 219px;
+  height: 235px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.rectangle-parent {
+  position: absolute;
+  top: 609px;
+  left: 638px;
+  width: 405px;
+  height: 241px;
+}
+.drug-free-world-txt-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.drug-free-world1 {
+  position: absolute;
+  top: 35px;
+  left: calc(50% - 149.5px);
+  line-height: 50px;
+  font-weight: 900;
+  display: flex;
+  align-items: center;
+  width: 300px;
+  height: 164px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.drug-free-world-wrapper,
+.frame-child5 {
+  position: absolute;
+  border-radius: var(--br-34xl);
+  width: 405px;
+  height: 234px;
+}
+.drug-free-world-wrapper {
+  top: 450px;
+  left: 116px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  background-color: var(--color-royalblue);
+}
+.frame-child5 {
+  top: 0;
+  left: 0;
+}
+.criminal-reform1 {
+  position: absolute;
+  top: 57px;
+  left: calc(50% - 161.5px);
+  line-height: 50px;
+  font-weight: 900;
+  display: flex;
+  align-items: center;
+  width: 324px;
+  height: 132px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.frame-child6,
+.vector-container {
+  position: absolute;
+  top: 449px;
+  left: 1289px;
+  width: 405px;
+  height: 234px;
+}
+.frame-child6 {
+  top: 0;
+  left: 8px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  border-radius: var(--br-34xl);
+  background-color: var(--color-royalblue);
+}
+.applied-scholastics1 {
+  position: absolute;
+  top: 60px;
+  left: calc(50% - 211.5px);
+  line-height: 50px;
+  font-weight: 900;
+  display: flex;
+  align-items: center;
+  width: 423px;
+  height: 114px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.rectangle-group {
+  position: absolute;
+  top: 53px;
+  left: 1330px;
+  width: 423px;
+  height: 234px;
+}
+.frame35 {
+  align-self: stretch;
+  position: relative;
+  height: 1014px;
+  overflow: hidden;
+  flex-shrink: 0;
+  font-size: var(--font-size-35xl);
+  color: var(--color-white);
+  font-family: var(--font-jost);
+}
+.frame21 {
+  position: absolute;
+  top: -7px;
+  left: -5px;
+  width: 1878px;
+  height: 2382px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-family: var(--font-open-sans);
+}
+.home4,
+.join-us12 {
+  position: relative;
+  line-height: 13px;
+  font-weight: 500;
+}
+.home4 {
+  flex: 1;
+  cursor: pointer;
+}
+.join-us12 {
+  -webkit-text-stroke: 1px rgba(255, 255, 255, 0.7);
+}
+.home-parent1,
+.join-us-wrapper1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.join-us-wrapper1 {
+  flex: 1;
+  border: 1px solid var(--color-gray-300);
+  box-sizing: border-box;
+  height: 32px;
+  flex-direction: column;
+  cursor: pointer;
+}
+.home-parent1 {
+  position: absolute;
+  top: 79px;
+  left: calc(50% - 738.5px);
+  width: 1478px;
+  flex-direction: row;
+  gap: var(--gap-136xl);
+  font-size: var(--font-size-smi-8);
+  color: var(--color-white);
+}
+.contact-us-email2 {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.contact-us-email-container2 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 890.5px);
+  line-height: 25px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 1816px;
+  height: 77px;
+}
+.frame37 {
+  position: absolute;
+  top: 546px;
+  left: 0;
+  width: 1881px;
+  height: 98px;
+  overflow: hidden;
+}
+.volunteer-ministers1 {
+  position: absolute;
+  top: 34px;
+  left: calc(50% - 196.5px);
+  line-height: 50px;
+  font-weight: 900;
+  display: flex;
+  align-items: center;
+  width: 394px;
+  height: 166px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.frame-child7,
+.volunteer-ministers-wrapper {
+  position: absolute;
+  top: 0;
+  left: 720px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  border-radius: var(--br-34xl);
+  background-color: var(--color-royalblue);
+  width: 405px;
+  height: 234px;
+}
+.frame-child7 {
+  left: 50px;
+}
+.narconon-drug-rehab1 {
+  position: absolute;
+  top: 7px;
+  left: calc(50% - 258.5px);
+  line-height: 50px;
+  font-weight: 900;
+  display: flex;
+  align-items: center;
+  width: 517px;
+  height: 219px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.frame36,
+.frame38,
+.frame39,
+.frame40,
+.rectangle-container {
+  position: absolute;
+  top: 120px;
+  left: 0;
+  width: 517px;
+  height: 234px;
+}
+.frame36,
+.frame38,
+.frame39,
+.frame40 {
+  top: 0;
+  height: 354px;
+  overflow: hidden;
+}
+.frame36,
+.frame38,
+.frame39 {
+  left: 410px;
+  width: 1125px;
+}
+.frame36,
+.frame38 {
+  left: 0;
+  width: 1535px;
+  font-size: var(--font-size-35xl);
+  color: var(--color-white);
+}
+.frame36 {
+  top: 2328px;
+  left: 23px;
+  width: 1850px;
+  height: 623px;
+  font-size: var(--font-size-base-8);
+  color: var(--color-black);
+}
+.div4 {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(#fff, #fff), #fff;
+  height: 2988px;
+  overflow-y: auto;
+  text-align: center;
+  font-size: var(--font-size-31xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-jost);
+}

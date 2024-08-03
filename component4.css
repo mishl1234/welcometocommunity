@@ -1,0 +1,218 @@
+.frame-icon {
+  position: absolute;
+  top: 686px;
+  left: -8px;
+  width: 1881px;
+  height: 605px;
+  overflow: hidden;
+}
+.frame-child {
+  position: absolute;
+  top: 0;
+  left: 4px;
+  background-color: var(--color-gray-200);
+  width: 1877px;
+  height: 1719px;
+}
+.frame,
+.frame-icon1,
+.item {
+  position: absolute;
+  left: -8px;
+}
+.frame {
+  top: 1269px;
+  width: 1881px;
+  height: 1719px;
+  overflow: hidden;
+}
+.frame-icon1,
+.item {
+  top: 0;
+}
+.frame-icon1 {
+  width: 1881px;
+  height: 686px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.item {
+  width: 1873px;
+  height: 128px;
+}
+.thalzor-nethul {
+  margin: 0;
+  font-size: var(--font-size-smi-8);
+}
+.erzalith-morthan-vexnath {
+  margin: 0;
+}
+.thalzor-nethul-erzalith-container1 {
+  width: 100%;
+}
+.thalzor-nethul-erzalith-container {
+  position: absolute;
+  top: 0;
+  left: 304px;
+  letter-spacing: 0.14em;
+  line-height: 33px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 1302px;
+  height: 1100px;
+}
+.frame1 {
+  position: absolute;
+  top: 524px;
+  left: -8px;
+  width: 1606px;
+  height: 1100px;
+  overflow: hidden;
+  color: #035816;
+}
+.thalzor-nethul-erzalith-container2 {
+  position: absolute;
+  top: 0;
+  left: 304px;
+  letter-spacing: 0.6em;
+  line-height: 18px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 1302px;
+  height: 1100px;
+}
+.frame2 {
+  position: absolute;
+  top: 611px;
+  left: -203px;
+  width: 1606px;
+  height: 1100px;
+  overflow: hidden;
+  color: #02353a;
+}
+.thalzor-nethul-erzalith-container4 {
+  position: absolute;
+  top: 0;
+  left: 291px;
+  letter-spacing: -0.14em;
+  line-height: 21px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 1302px;
+  height: 1100px;
+}
+.frame3 {
+  position: absolute;
+  top: 1237px;
+  left: 66px;
+  width: 1593px;
+  height: 1100px;
+  overflow: hidden;
+  color: #420e5b;
+}
+.thalzor-nethul-erzalith-container6 {
+  position: absolute;
+  top: 0;
+  left: 1746px;
+  letter-spacing: 0.45em;
+  line-height: 27px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 1560px;
+  height: 1100px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.frame4 {
+  position: absolute;
+  top: 1883px;
+  left: 0;
+  width: 1746px;
+  height: 1100px;
+  overflow: hidden;
+}
+.openart-image-yv7fe8ie-1722125-icon {
+  position: absolute;
+  top: 0;
+  left: 670px;
+  width: 545px;
+  height: 545px;
+  object-fit: cover;
+}
+.frame5 {
+  position: absolute;
+  top: 2160px;
+  left: -8px;
+  width: 1215px;
+  height: 545px;
+  overflow: hidden;
+}
+.thalzor-nethul-erzalith-container8 {
+  position: absolute;
+  top: 0;
+  left: 1754px;
+  line-height: 18px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 1560px;
+  height: 1100px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.frame6,
+.istockphoto-1030998560-640-adp {
+  position: absolute;
+  top: 158px;
+  left: 454px;
+  width: 640px;
+  height: 360px;
+}
+.frame6 {
+  top: 992px;
+  left: 131px;
+  width: 1754px;
+  height: 1100px;
+  overflow: hidden;
+}
+.home,
+.what-is-the {
+  flex: 1;
+  position: relative;
+  line-height: 13px;
+  font-weight: 500;
+  transform: rotate(-180deg);
+  cursor: pointer;
+}
+.what-is-the {
+  transform: rotate(180deg);
+}
+.home-parent {
+  position: absolute;
+  top: 90px;
+  left: calc(50% - 647.5px);
+  width: 1295px;
+  height: 31px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-136xl);
+  font-size: var(--font-size-smi-8);
+  color: var(--color-white);
+}
+.div1 {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(red, red), red;
+  height: 2988px;
+  overflow-y: auto;
+  text-align: center;
+  font-size: var(--font-size-109xl);
+  color: var(--color-maroon-200);
+  font-family: var(--font-jost);
+}

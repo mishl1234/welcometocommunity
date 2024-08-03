@@ -1,0 +1,227 @@
+.r-1-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1878px;
+  height: 688px;
+  object-fit: cover;
+}
+.join-us-now {
+  align-self: stretch;
+  position: relative;
+  line-height: 13px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.join-us-now-wrapper {
+  position: absolute;
+  top: 1402px;
+  left: calc(50% - 339px);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: var(--color-royalblue);
+  width: 700px;
+  height: 138px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.frame-child8,
+.frame-child9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1883px;
+  height: 128px;
+}
+.frame-child9 {
+  top: 688px;
+  width: 1878px;
+  height: 604px;
+}
+.welcome {
+  margin-block-start: 0;
+  margin-block-end: 54px;
+  line-height: 11px;
+}
+.to-the-commu {
+  line-height: 120px;
+}
+.nity {
+  line-height: 24px;
+}
+.to-the-community {
+  margin: 0;
+}
+.welcome-to-the-container1 {
+  width: 100%;
+}
+.welcome-to-the-container {
+  position: absolute;
+  top: 639px;
+  left: calc(50% - 884px);
+  font-size: 208px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 1793px;
+  height: 571px;
+}
+.dalle-2024-07-17-114332-m {
+  position: absolute;
+  top: 1915px;
+  left: 58px;
+  width: 423px;
+  height: 242px;
+  object-fit: cover;
+}
+.d752-7148-45c2-a376-5b8b2dbd4d-icon,
+.dalle-2024-07-17-114348-m {
+  position: absolute;
+  top: 2036px;
+  left: 519px;
+  width: 423px;
+  height: 242px;
+  object-fit: cover;
+}
+.d752-7148-45c2-a376-5b8b2dbd4d-icon {
+  top: 1661px;
+  width: 581px;
+  height: 332px;
+}
+.join-us-and {
+  position: absolute;
+  top: 1131px;
+  left: calc(50% - 796px);
+  line-height: 13px;
+  font-weight: 500;
+  color: var(--color-gray-100);
+}
+.d752-7148-45c2-a376-5b8b2dbd4d-icon1 {
+  position: absolute;
+  top: 1764px;
+  left: 1138px;
+  width: 401px;
+  height: 229px;
+  object-fit: cover;
+}
+.openart-image-66axsemf-1721757-icon {
+  position: absolute;
+  top: 2036px;
+  left: 980px;
+  width: 259px;
+  height: 259px;
+  object-fit: cover;
+}
+.openart-image-cuctjitq-1721757-icon {
+  position: absolute;
+  top: 1647px;
+  left: 239px;
+  width: 242px;
+  height: 242px;
+  object-fit: cover;
+}
+.openart-image-0pegkfbk-1721757-icon {
+  position: absolute;
+  top: 1779px;
+  left: 1577px;
+  width: 220px;
+  height: 220px;
+  object-fit: cover;
+}
+.dalle-2024-07-17-114702-a,
+.httpslottiefilescomanimat-icon {
+  position: absolute;
+  top: 2036px;
+  left: 1277px;
+  width: 423px;
+  height: 242px;
+  object-fit: cover;
+}
+.httpslottiefilescomanimat-icon {
+  top: 1234px;
+  left: 870px;
+  width: 143px;
+  height: 143px;
+}
+.frame-icon7,
+.frame41 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  width: 1878px;
+  height: 2295px;
+  overflow: hidden;
+}
+.frame-icon7 {
+  top: 2548px;
+  width: 1872px;
+  height: 348px;
+  object-fit: cover;
+}
+.contact-us-email3 {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.contact-us-email-container4 {
+  position: absolute;
+  top: 2896px;
+  left: calc(50% - 908.5px);
+  font-size: var(--font-size-base-8);
+  line-height: 25px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 1816px;
+  height: 77px;
+}
+.home5,
+.join-us13 {
+  position: relative;
+  line-height: 13px;
+  font-weight: 500;
+}
+.home5 {
+  flex: 1;
+  cursor: pointer;
+}
+.join-us13 {
+  -webkit-text-stroke: 1px rgba(255, 255, 255, 0.7);
+}
+.join-us-wrapper2 {
+  flex: 1;
+  border: 1px solid var(--color-gray-300);
+  box-sizing: border-box;
+  height: 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.home-parent2 {
+  position: absolute;
+  top: 79px;
+  left: calc(50% - 647.5px);
+  width: 1295px;
+  height: 31px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-136xl);
+  font-size: var(--font-size-smi-8);
+  color: var(--color-white);
+}
+.div5 {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(#fff, #fff), #fff;
+  height: 2988px;
+  overflow-y: auto;
+  text-align: center;
+  font-size: var(--font-size-45xl);
+  color: var(--color-black);
+  font-family: var(--font-jost);
+}
